@@ -1,20 +1,45 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+# ⚡🧠 BITCOIN ORACLE AI 🧠⚡
+### 🚀 AI Powered Crypto Prediction System
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Bitcoin+Oracle+AI;Predict+Crypto+Like+a+Pro;AI+Market+Intelligence;Future+of+Crypto+Analysis" />
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500"/>
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🧠 ABOUT
+Bitcoin Oracle AI is an AI-powered system that analyzes Bitcoin market trends and generates predictive insights using data-driven algorithms and real-time visualization.
 
-View your app in AI Studio: https://ai.studio/apps/a342d75f-aefb-4eb5-96b7-95fa37a07371
+---
 
-## Run Locally
+## 💎 FEATURES
+- 🔮 AI Bitcoin Price Prediction  
+- 📊 Real-Time Analytics Dashboard  
+- 🧠 Smart Market Trend Detection  
+- ⚡ Fast Vite Frontend  
+- 🌐 Modern SaaS UI Design  
+- 📈 Data Visualization Engine  
+- 🧩 Modular Full-Stack Architecture  
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ TECH STACK
+⚛️ React + Vite  
+🟦 TypeScript  
+🟢 Node.js  
+⚡ Express  
+📊 AI Prediction Logic  
+🎨 CSS Neon UI  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 INSTALLATION
+```bash
+git clone https://github.com/mawiya-47/Bitcoin-Oracle-AI.git
+cd Bitcoin-Oracle-AI
+npm install
+npm run dev
