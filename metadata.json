@@ -1,0 +1,6 @@
+{
+  "name": "Bitcoin Oracle AI",
+  "description": "Advanced full-stack Bitcoin forecasting platform with machine learning projections, technical indicators, Monte Carlo simulations, and Gemini-powered smart market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
