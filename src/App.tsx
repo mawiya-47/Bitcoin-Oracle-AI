@@ -249,8 +249,8 @@ export default function App() {
             onClick={() => handlePageNavigation("landing")}
             className="flex items-center gap-3 cursor-pointer text-left select-none"
           >
-            <div className="w-8 h-8 rounded-lg overflow-hidden shadow-[0_0_15px_rgba(249,115,22,0.4)]">
-              <img src="/logo.svg" alt="Bitcoin Oracle AI" className="w-full h-full object-cover" />
+            <div className="w-8 h-8 bg-orange-500 rounded-lg flex items-center justify-center shadow-[0_0_15px_rgba(249,115,22,0.4)]">
+              <Coins className="w-4.5 h-4.5 text-black font-bold" />
             </div>
             <div>
               <span className="text-sm font-black tracking-tight text-white block">
